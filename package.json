@@ -1,7 +1,7 @@
 {
-  "name": "technotes",
+  "name": "TMS",
   "version": "1.0.0",
-  "description": "MERN sticky notes project",
+  "description": "MERN project for user/task management",
   "main": "server.js",
   "scripts": {
     "start": "node server",
