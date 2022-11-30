@@ -1,3 +1,3 @@
-const allowedOrigins = ["https://tms-cbe2.onrender.com/"];
+const allowedOrigins = ["https://tms-cbe2.onrender.com"];
 
 module.exports = allowedOrigins;
